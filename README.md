@@ -7,5 +7,5 @@ Because I am constantly trying to improve the backend architecture of an ERP web
 Due to a demand at work, I'm currently working on a plugin for the [NHibernate](https://nhibernate.info/) ORM to support [MSSQL Table-Valued-Functions](https://learn.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions?view=sql-server-ver16#table-valued-functions) in LINQ Queries.
 
 #### Contact me 💬
-- [E-Mail](michael.kaufmann@outlook.at)
+- [E-Mail](mailto:michael.kaufmann@outlook.at)
 - [LinkedIn](https://www.linkedin.com/in/michael-kaufmann-9a324b199)
