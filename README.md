@@ -8,4 +8,4 @@ Due to a demand at work, I'm currently working on a plugin for the [NHibernate](
 
 #### Contact me 💬
 - [E-Mail](michael.kaufmann@outlook.at)
-- [LinkedIn](inkedin.com/in/michael-kaufmann-9a324b199)
+- [LinkedIn](www.linkedin.com/in/michael-kaufmann-9a324b199)
